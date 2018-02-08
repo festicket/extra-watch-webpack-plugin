@@ -1,6 +1,6 @@
 {
-  "name": "extra-watch-webpack-plugin",
-  "version": "0.2.0",
+  "name": "@festicket/extra-watch-webpack-plugin",
+  "version": "0.2.1",
   "description": "extra-watch-webpack-plugin would help you to attach extra files or dirs to webpack's watch system",
   "main": "./lib/index.js",
   "scripts": {
@@ -27,19 +27,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pigcan/extra-watch-webpack-plugin.git"
+    "url": "git+https://github.com/festicket/extra-watch-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
     "webpack-plugin",
     "watch"
   ],
-  "author": "pigcan <jinangjay818@gmail.com>",
+  "author": "sam_at_work <sam@festicket.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pigcan/extra-watch-webpack-plugin/issues"
+    "url": "https://github.com/festicket/extra-watch-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/pigcan/extra-watch-webpack-plugin#readme",
+  "homepage": "https://github.com/festicket/extra-watch-webpack-plugin#readme",
   "devDependencies": {
     "ava": "^0.24.0",
     "babel-cli": "^6.26.0",
